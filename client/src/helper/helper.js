@@ -4,7 +4,7 @@ import jwt_decode from 'jwt-decode';
 axios.defaults.baseURL = process.env.REACT_APP_SERVER_DOMAIN;
 
 
-/** Make API Requests */
+/** Make API Request */
 
 
 /** To get username from Token */
