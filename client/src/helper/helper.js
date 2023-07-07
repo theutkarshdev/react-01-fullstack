@@ -53,7 +53,6 @@ export async function registerUser(credentials){
 }
 
 /** login function */
-/** login function */
 export async function verifyPassword({ username, password }){
     try {
         if(username){
